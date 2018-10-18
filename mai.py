@@ -1,4 +1,4 @@
-panty = [white,blue,pink]
+panty = ["white","blue","pink"]
 
 def mai():
 	guess = input("まいちゃんの今日のパンティの色は？")

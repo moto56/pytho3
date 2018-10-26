@@ -7,8 +7,8 @@ def god_knows():
     x = random.randint(1,10)
    # print(x)
     if x % 2 == 0:
-        print("‹ô”u’šv")
+        print("åŠï¼")
     else:
-        print("Šï”u”¼v")
+        print("ä¸ï¼")
 
 god_knows()
